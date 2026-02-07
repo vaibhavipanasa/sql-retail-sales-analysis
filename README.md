@@ -1,4 +1,4 @@
-# SQL Retail Sales Analysis (Beginner)
+# SQL Retail Sales Analysis
 
 This beginner SQL project analyzes a small retail sales database using SQLite.
 
